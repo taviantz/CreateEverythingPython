@@ -43,4 +43,3 @@ print(mean)
 # It's the average value across all the random numbers in the array.
 # Remember that the np.random.rand() function generates random values between 0 and 1.
 # So the array contains random values, and the mean gives an overall sense of their average magnitude.
-
