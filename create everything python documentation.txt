@@ -1,0 +1,7 @@
+06-20-24
+
+installed git around 10 am this morning been working, on that and GitHub ever since. It is 8:45pm now. 
+
+My goal is push this python code that consists of numpy through git and GitHub. 
+
+However I need to configure git and GitHub first. In the process of doing that. 
