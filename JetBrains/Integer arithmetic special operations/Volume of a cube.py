@@ -6,4 +6,13 @@ side_length = 4
 volume = side_length**3
 print(volume)
 
+#More in depth explaination of the code
 
+# Measure the length of one side of the cube. 
+side_length = 4
+
+# Calculate the volume using the formula
+volume = side_length**3
+
+# Print the volume to the screen. In the first code I just printed the volume. In this code I added sentence "The volume of the cube is:", volume.
+print("The volume of the cube is:", volume)
