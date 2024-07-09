@@ -14,4 +14,3 @@ print(remainder)
 # The expected output is 2 because:
 # - When 62 is divided by 12,the quotient is (since 12 * 5 = 60).
 # - The remainder is the difference between 62 and 60, which is 2.
-
