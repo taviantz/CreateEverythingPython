@@ -1,6 +1,6 @@
 # This program converts time from a 24-hour format to a 12-hour format.
 # For further information, details, and a compelling story about this code,
-# please check out the following Medium article: {}
+# please check out the following Medium article: {https://medium.com/python-mastery-101/hourus-tale-d27576e01343}
 # replace 12 with the hour in 24-hour format that you want to convert.
 
 hour = 12 
