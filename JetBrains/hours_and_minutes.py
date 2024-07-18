@@ -71,8 +71,6 @@ total_minutes = 856
 hours = total_minutes // 60  # Integer division gives the whole hours
 remaining_minutes = total_minutes % 60  # Modulo operator gives the remaining minutes
 
-# Now, hours contains the number of complete hours, and remaining_minutes contains the leftover minutes
-
 # time_conversion.py
 
 def convert_minutes_to_hours(minutes):
